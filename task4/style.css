@@ -6,10 +6,10 @@
   background-color: orange;
   color: green;
 }
-code.already-learned {
+section.already-learned code {
   background-color: orange;
 }
-code.to-be-learned {
+section.to-be-learned code {
   background-color: green;
 }
 #special1 + li > h4 {
